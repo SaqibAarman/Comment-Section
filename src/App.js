@@ -23,7 +23,7 @@ function App() {
   };
 
   useEffect(() => {
-    localStorage.getItem("comments") === null
+    localStorage.getItem("comments") == null
       ? setComments(JSON.parse(localStorage.getItem("comments")))
       : getCommentsData();
   }, []);

@@ -12,8 +12,8 @@
 
 ## Links
 
-- [Solution URL](https://github.com/arshWebDev/interactive-comments-section)
-- [Live Site URL](https://interactive-comments-section-nine.vercel.app)
+- [Solution URL](https://github.com/SaqibAarman/Comment-Section)
+- [Live Site URL](https://interactive-comment-section-xi.vercel.app/)
 
 ## Built with
 
@@ -27,4 +27,4 @@
 
 - I learned how to create a interactive comment section.
 - I learned about designing and also dealing with the nested objects.
-
+- I also learned Sass preprocessor.
